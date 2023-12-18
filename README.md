@@ -1,6 +1,6 @@
 # Hi there! I'm [Nyuydine Bill] 👋
 
-I am an experienced web developer with over 4 years of expertise in Python (Django) and JavaScript (React.js). I am also a certified AWS Cloud Practitioner.
+I am an experienced web developer with over 4 years of expertise in Python (Django) and JavaScript (React.js). I am also a certified Azure Cloud Practitioner.
 
 ## 🚀 Skills and Technologies
 
