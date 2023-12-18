@@ -1,10 +1,4 @@
 # Hi there! I'm [Nyuydine Bill] 👋
-[![Nyuydine's GitHub stats](https://github-readme-stats.vercel.app/api?username=NyuydineBill)](https://github.com/NyuydineBill/github-readme-stats)
-
-![Nyuydine's GitHub stats](https://github-readme-stats.vercel.app/api?username=NyuydineBill&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
-![Nyuydine's GitHub stats](https://github-readme-stats.vercel.app/api?username=NyuydineBill&show_icons=true)
-![Nyuydine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nyuydine&show_icons=true&theme=radical)
 I am an experienced web developer with over 4 years of expertise in Python (Django) and JavaScript (React.js). I am also a certified Azure Cloud Practitioner.
 
 ## 🚀 Skills and Technologies
