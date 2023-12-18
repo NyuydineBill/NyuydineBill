@@ -22,7 +22,7 @@ I am an experienced web developer with over 4 years of expertise in Python (Djan
   - Developed and maintained web applications using Django and React.js.
   - Collaborated with cross-functional teams to deliver high-quality software solutions.
   - Managed and deployed applications on Azure cloud infrastructure.
-  - Utilized various AWS services to ensure scalability, reliability, and security.
+  - Utilized various Azure services to ensure scalability, reliability, and security.
   
 
 ## 🎓 Education
