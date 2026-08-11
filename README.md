@@ -11,7 +11,7 @@
 
 I'm a software engineer focused on building practical products from idea to production. My work spans **frontend, backend, cloud infrastructure, AI/ML integrations, mobile applications, and developer tooling**.
 
-I enjoy working on problems where software engineering and intelligent systems meet — from AI-powered job platforms and automation systems to self-healing CI/CD pipelines.
+I enjoy working on problems where software engineering and intelligent systems meet - from AI-powered job platforms and automation systems to self-healing CI/CD pipelines.
 
 ---
 
